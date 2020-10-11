@@ -1,0 +1,865 @@
+"","Movie_name","Years","Genre","Ratings","Director","Users_involved","Runtime"
+"1","Kajillionaire",2020,"Crime",6.6,"Miranda July",740,"
+                        1h 44min
+                    "
+"2","Thor: Ragnarok",2017,"Action",7.9,"Taika Waititi",569546,"
+                        2h 10min
+                    "
+"3","Motherless Brooklyn",2019,"Crime",6.8,"Edward Norton",36489,"
+                        2h 24min
+                    "
+"4","Bombshell",2019,"Biography",6.8,"Jay Roach",74103,"
+                        1h 49min
+                    "
+"5","Lost Girls and Love Hotels",2020,"Drama",4.4,"William Olsson",1536,"
+                        1h 37min
+                    "
+"6","Project Power",2020,"Action",6,"Henry Joost",57105,"
+                        1h 53min
+                    "
+"7","Bastille Day",2016,"Action",6.3,"James Watkins",36611,"
+                        1h 32min
+                    "
+"8","The Peanut Butter Falcon",2019,"Comedy",7.6,"Tyler Nilson",56475,"
+                        1h 37min
+                    "
+"9","The War with Grandpa",2020,"Comedy",5.5,"Tim Hill",4671,"
+                        1h 34min
+                    "
+"10","#Saraitda",2020,"Drama",6.2,"Il Cho",17056,"
+                        1h 38min
+                    "
+"11","Jumanji: The Next Level",2019,"Action",6.7,"Jake Kasdan",174123,"
+                        2h 3min
+                    "
+"12","Little Women",2019,"Drama",7.8,"Greta Gerwig",126612,"
+                        2h 15min
+                    "
+"13","12 Hour Shift",2020,"Horror",5.2,"Brea Grant",713,"
+                        1h 26min
+                    "
+"14","Trolls World Tour",2020,"Animation",6.1,"Walt Dohrn",13335,"
+                        1h 30min
+                    "
+"15","Star Wars: The Rise Of Skywalker",2019,"Action",6.6,"J.J. Abrams",352575,"
+                        2h 21min
+                    "
+"16","El practicante",2020,"Drama",5.6,"Carles Torras",5637,"
+                        1h 34min
+                    "
+"17","Deadpool",2016,"Action",8,"Tim Miller",886276,"
+                        1h 48min
+                    "
+"18","Jurassic World: Fallen Kingdom",2018,"Action",6.2,"J.A. Bayona",258867,"
+                        2h 8min
+                    "
+"19","Murder on the Orient Express",2017,"Crime",6.5,"Kenneth Branagh",206043,"
+                        1h 54min
+                    "
+"20","Spider-Man: Into the Spider-Verse",2018,"Animation",8.4,"Bob Persichetti",342443,"
+                        1h 57min
+                    "
+"21","Fantastic Beasts: The Crimes of Grindelwald",2018,"Adventure",6.6,"David Yates",212604,"
+                        2h 14min
+                    "
+"22","Follow Me",2020,"Adventure",5.4,"Will Wernick",2551,"
+                        1h 28min
+                    "
+"23","Mad Max: Fury Road",2015,"Action",8.1,"George Miller",861780,"
+                        2h
+                    "
+"24","JL Family Ranch: The Wedding Gift",2020,"Western",6.2,"Sean McNamara",98,"
+                        1h 23min
+                    "
+"25","Avengers: Infinity War",2018,"Action",8.4,"Anthony Russo",804755,"
+                        2h 29min
+                    "
+"26","Peppermint",2018,"Action",6.5,"Pierre Morel",50105,"
+                        1h 41min
+                    "
+"27","Hereditary",2018,"Drama",7.3,"Ari Aster",225260,"
+                        2h 7min
+                    "
+"28","The Lion King",2019,"Animation",6.9,"Jon Favreau",202551,"
+                        1h 58min
+                    "
+"29","Bad Boys For Life",2020,"Action",6.6,"Adil El Arbi",115853,"
+                        2h 4min
+                    "
+"30","Deadpool 2",2018,"Action",7.7,"David Leitch",464565,"
+                        1h 59min
+                    "
+"31","Love, Guaranteed",2020,"Romance",5.5,"Mark Steven Johnson",9369,"
+                        1h 30min
+                    "
+"32","His House",2020,"Horror",6.2,"Remi Weekes",78,"
+                        1h 33min
+                    "
+"33","The Secret: Dare to Dream",2020,"Drama",6.4,"Andy Tennant",2228,"
+                        1h 47min
+                    "
+"34","It: Chapter 2",2019,"Drama",6.5,"Andy Muschietti",195788,"
+                        2h 49min
+                    "
+"35","On the Rocks",2020,"Adventure",6.8,"Sofia Coppola",737,"
+                        1h 36min
+                    "
+"36","Charlie's Angels",2019,"Action",4.8,"Elizabeth Banks",51844,"
+                        1h 58min
+                    "
+"37","Uncut Gems",2019,"Crime",7.4,"Benny Safdie",203936,"
+                        2h 15min
+                    "
+"38","A Simple Favor",2018,"Comedy",6.8,"Paul Feig",121987,"
+                        1h 57min
+                    "
+"39","Greyhound",2020,"Action",7,"Aaron Schneider",54076,"
+                        1h 31min
+                    "
+"40","BlacKkKlansman",2018,"Biography",7.5,"Spike Lee",211255,"
+                        2h 15min
+                    "
+"41","The Meg",2018,"Action",5.6,"Jon Turteltaub",145119,"
+                        1h 53min
+                    "
+"42","Infidel",2019,"Action",6.6,"Cyrus Nowrasteh",782,"
+                        1h 48min
+                    "
+"43","Bloodshot",2020,"Action",5.7,"Dave Wilson",52840,"
+                        1h 49min
+                    "
+"44","The Man from U.N.C.L.E.",2015,"Action",7.3,"Guy Ritchie",265329,"
+                        1h 56min
+                    "
+"45","The Equalizer 2",2018,"Action",6.7,"Antoine Fuqua",127762,"
+                        2h 1min
+                    "
+"46","The Irishman",2019,"Biography",7.9,"Martin Scorsese",308737,"
+                        3h 29min
+                    "
+"47","Nishabdham",2020,"Mystery",3.8,"Hemant Madhukar",1641,"
+                        2h
+                    "
+"48","Suicide Squad",2016,"Action",6,"David Ayer",589909,"
+                        2h 3min
+                    "
+"50","Eurovision Song Contest: The Story of Fire Saga",2020,"Comedy",6.5,"David Dobkin",65817,"
+                        2h 3min
+                    "
+"52","The King of Staten Island",2020,"Comedy",7.1,"Judd Apatow",24921,"
+                        2h 16min
+                    "
+"53","Midway",2019,"Action",6.7,"Roland Emmerich",60109,"
+                        2h 18min
+                    "
+"54","Slaughterhouse Rulez",2018,"Action",5.3,"Crispian Mills",10209,"
+                        1h 44min
+                    "
+"55","Train to Busan 2",2020,"Action",5.5,"Sang-ho Yeon",12471,"
+                        1h 56min
+                    "
+"56","The Tax Collector",2020,"Crime",4.7,"David Ayer",6049,"
+                        1h 35min
+                    "
+"57","The Greatest Showman Sing-A-Long",2017,"Biography",7.6,"Michael Gracey",228713,"
+                        1h 45min
+                    "
+"58","Fantasy Island",2020,"Action",4.9,"Jeff Wadlow",29044,"
+                        1h 49min
+                    "
+"59","Spider-Man: Far From Home",2019,"Action",7.5,"Jon Watts",308911,"
+                        2h 9min
+                    "
+"60","Good Time",2017,"Crime",7.4,"Benny Safdie",83150,"
+                        1h 42min
+                    "
+"61","Palm Springs",2020,"Comedy",7.4,"Max Barbakow",50979,"
+                        1h 30min
+                    "
+"62","Extraction",2020,"Action",6.7,"Sam Hargrave",145527,"
+                        1h 56min
+                    "
+"63","A Call to Spy",2019,"Biography",5.6,"Lydia Dean Pilcher",357,"
+                        2h 3min
+                    "
+"64","Nomadland",2020,"Drama",8.1,"Chloé Zhao",622,"
+                        1h 48min
+                    "
+"65","Call Me by Your Name",2017,"Drama",7.9,"Luca Guadagnino",202090,"
+                        2h 12min
+                    "
+"66","The Secret Garden",2020,"Drama",5.6,"Marc Munden",2818,"
+                        1h 39min
+                    "
+"67","Mission: Impossible - Fallout",2018,"Action",7.7,"Christopher McQuarrie",283399,"
+                        2h 27min
+                    "
+"68","Fifty Shades of Grey",2015,"Drama",4.1,"Sam Taylor-Johnson",294223,"
+                        2h 5min
+                    "
+"69","Ready Player One",2018,"Action",7.5,"Steven Spielberg",356483,"
+                        2h 20min
+                    "
+"71","Alita: Battle Angel",2019,"Action",7.3,"Robert Rodriguez",219927,"
+                        2h 2min
+                    "
+"72","Jurassic World",2015,"Action",7,"Colin Trevorrow",571587,"
+                        2h 4min
+                    "
+"73","The Lodge",2019,"Drama",6,"Severin Fiala",26749,"
+                        1h 48min
+                    "
+"74","Justice League",2017,"Action",6.3,"Zack Snyder",374013,"
+                        2h
+                    "
+"75","Captain Marvel",2019,"Action",6.9,"Anna Boden",426420,"
+                        2h 3min
+                    "
+"76","The Avengers: Age of Ultron",2015,"Action",7.3,"Joss Whedon",726528,"
+                        2h 21min
+                    "
+"78","The VVitch: A New-England Folktale",2015,"Drama",6.9,"Robert Eggers",191221,"
+                        1h 32min
+                    "
+"79","The Martian",2015,"Adventure",8,"Ridley Scott",744799,"
+                        2h 24min
+                    "
+"80","Frozen 2",2019,"Animation",6.9,"Chris Buck",126209,"
+                        1h 43min
+                    "
+"81","Hustlers",2019,"Comedy",6.3,"Lorene Scafaria",78649,"
+                        1h 50min
+                    "
+"82","Aladdin",2019,"Adventure",7,"Guy Ritchie",218376,"
+                        2h 8min
+                    "
+"83","Hidden Figures",2016,"Biography",7.8,"Theodore Melfi",194880,"
+                        2h 7min
+                    "
+"84","Dunkirk",2017,"Action",7.9,"Christopher Nolan",537352,"
+                        1h 46min
+                    "
+"85","Green Book",2018,"Biography",8.2,"Peter Farrelly",348112,"
+                        2h 10min
+                    "
+"86","Bad Hair",2020,"Horror",4.8,"Justin Simien",118,"
+                        1h 55min
+                    "
+"87","Venom",2018,"Action",6.7,"Ruben Fleischer",349213,"
+                        1h 52min
+                    "
+"88","Me Before You",2016,"Drama",7.4,"Thea Sharrock",202067,"
+                        1h 46min
+                    "
+"89","Portrait of a Lady on Fire",2019,"Drama",8.1,"Céline Sciamma",52975,"
+                        2h 2min
+                    "
+"90","Aquaman",2018,"Action",6.9,"James Wan",352673,"
+                        2h 23min
+                    "
+"91","Bohemian Rhapsody",2018,"Biography",8,"Bryan Singer",436962,"
+                        2h 14min
+                    "
+"92","Richard Jewell",2019,"Biography",7.5,"Clint Eastwood",51340,"
+                        2h 11min
+                    "
+"93","El hoyo",2019,"Sci-Fi",7,"Galder Gaztelu-Urrutia",149644,"
+                        1h 34min
+                    "
+"94","Instant Family",2018,"Comedy",7.3,"Sean Anders",78677,"
+                        1h 58min
+                    "
+"95","Pirates of the Caribbean: Dead Men Tell No Tales",2017,"Action",6.6,"Joachim Rønning",256386,"
+                        2h 9min
+                    "
+"96","Guardians Of The Galaxy 2",2017,"Action",7.6,"James Gunn",554425,"
+                        2h 16min
+                    "
+"97","Crazy Rich Asians",2018,"Comedy",6.9,"Jon M. Chu",134798,"
+                        2h
+                    "
+"98","Mamma Mia: Here We Go Again!",2018,"Comedy",6.6,"Ol Parker",76806,"
+                        1h 54min
+                    "
+"99","Spider-Man: Homecoming",2017,"Action",7.4,"Jon Watts",497670,"
+                        2h 13min
+                    "
+"100","Kingsman: The Golden Circle",2017,"Action",6.7,"Matthew Vaughn",265717,"
+                        2h 21min
+                    "
+"101","Emma",2020,"Comedy",6.7,"Autumn de Wilde",20983,"
+                        2h 4min
+                    "
+"102","A Star is Born - Encore Version",2018,"Drama",7.7,"Bradley Cooper",322254,"
+                        2h 16min
+                    "
+"103","Three Billboards Outside Ebbing, Missouri",2017,"Comedy",8.2,"Martin McDonagh",415892,"
+                        1h 55min
+                    "
+"104","Lady Bird",2017,"Comedy",7.4,"Greta Gerwig",232087,"
+                        1h 34min
+                    "
+"105","6 Underground",2019,"Action",6.1,"Michael Bay",131559,"
+                        2h 8min
+                    "
+"107","Spies in Disguise",2019,"Animation",6.8,"Nick Bruno",30400,"
+                        1h 42min
+                    "
+"109","A Quiet Place",2018,"Drama",7.5,"John Krasinski",394979,"
+                        1h 30min
+                    "
+"110","The Girl in the Spider's Web",2018,"Action",6.1,"Fede Alvarez",39165,"
+                        1h 55min
+                    "
+"111","Save Yourselves!",2020,"Comedy",5.4,"Alex Huston Fischer",865,"
+                        1h 33min
+                    "
+"112","Unpregnant",2020,"Comedy",6.1,"Rachel Lee Goldenberg",2661,"
+                        1h 43min
+                    "
+"113","Busanhaeng",2016,"Action",7.6,"Sang-ho Yeon",155496,"
+                        1h 58min
+                    "
+"114","Fast & Furious: Hobbs and Shaw",2019,"Action",6.4,"David Leitch",160443,"
+                        2h 17min
+                    "
+"115","Zombieland 2: Double Tap",2019,"Action",6.7,"Ruben Fleischer",129487,"
+                        1h 39min
+                    "
+"116","John Wick: Chapter 3 - Parabellum",2019,"Action",7.4,"Chad Stahelski",261717,"
+                        2h 10min
+                    "
+"117","Logan",2017,"Action",8.1,"James Mangold",631782,"
+                        2h 17min
+                    "
+"118","Nocturnal Animals",2016,"Drama",7.5,"Tom Ford",231417,"
+                        1h 56min
+                    "
+"119","Wonder Woman",2017,"Action",7.4,"Patty Jenkins",539150,"
+                        2h 21min
+                    "
+"120","Baby Driver",2017,"Action",7.6,"Edgar Wright",426059,"
+                        1h 53min
+                    "
+"121","Logan Lucky",2017,"Comedy",7,"Steven Soderbergh",126243,"
+                        1h 58min
+                    "
+"122","Rogue One",2016,"Action",7.8,"Gareth Edwards",541540,"
+                        2h 13min
+                    "
+"123","Ad Astra",2019,"Adventure",6.6,"James Gray",188855,"
+                        2h 3min
+                    "
+"124","Captain Fantastic",2016,"Comedy",7.9,"Matt Ross",183653,"
+                        1h 58min
+                    "
+"125","La La Land",2016,"Comedy",8,"Damien Chazelle",491447,"
+                        2h 8min
+                    "
+"126","Godzilla: King of the Monsters",2019,"Action",6,"Michael Dougherty",126973,"
+                        2h 12min
+                    "
+"127","Hacksaw Ridge",2016,"Biography",8.1,"Mel Gibson",422004,"
+                        2h 19min
+                    "
+"128","Jumanji: Welcome to the Jungle",2017,"Action",6.9,"Jake Kasdan",311116,"
+                        1h 59min
+                    "
+"129","The Revenant",2015,"Action",8,"Alejandro G. Iñárritu",688935,"
+                        2h 36min
+                    "
+"130","Honest Thief",2020,"Action",6.5,"Mark Williams",350,"
+                        1h 39min
+                    "
+"131","The Shape of Water",2017,"Adventure",7.3,"Guillermo del Toro",360148,"
+                        2h 3min
+                    "
+"132","Alien: Covenant",2017,"Horror",6.4,"Ridley Scott",249497,"
+                        2h 2min
+                    "
+"133","Marriage Story",2019,"Comedy",8,"Noah Baumbach",231584,"
+                        2h 17min
+                    "
+"135","JL Ranch",2016,"Western",5.5,"Charles Robert Carner",389,"
+                        1h 25min
+                    "
+"136","Do Not Reply",2019,"Horror",4.1,"Daniel Woltosz",266,"
+                        1h 38min
+                    "
+"137","Scoob!",2020,"Animation",5.7,"Tony Cervone",15878,"
+                        1h 33min
+                    "
+"138","Doctor Strange",2016,"Action",7.5,"Scott Derrickson",582771,"
+                        1h 55min
+                    "
+"139","xXx: Return of Xander Cage",2017,"Action",5.2,"D.J. Caruso",83992,"
+                        1h 47min
+                    "
+"140","Batman v Superman: Dawn of Justice",2016,"Action",6.4,"Zack Snyder",615114,"
+                        2h 32min
+                    "
+"141","Toy Story 4",2019,"Animation",7.8,"Josh Cooley",192138,"
+                        1h 40min
+                    "
+"142","First Man",2018,"Biography",7.3,"Damien Chazelle",161834,"
+                        2h 21min
+                    "
+"143","The Way Back",2020,"Drama",6.7,"Gavin O'Connor",25883,"
+                        1h 48min
+                    "
+"144","Sightless",2020,"Thriller",5,"Cooper Karl",302,"
+                        1h 29min
+                    "
+"145","The Hateful Eight",2015,"Crime",7.8,"Quentin Tarantino",502383,"
+                        2h 48min
+                    "
+"146","Underwater",2020,"Action",5.8,"William Eubank",50723,"
+                        1h 35min
+                    "
+"147","A Cure for Wellness",2016,"Drama",6.4,"Gore Verbinski",83660,"
+                        2h 26min
+                    "
+"148","Vivarium",2019,"Comedy",5.8,"Lorcan Finnegan",31235,"
+                        1h 37min
+                    "
+"149","Tayna pechati drakona",2019,"Action",4.6,"Oleg Stepchenko",2684,"
+                        2h
+                    "
+"150","Ocean's 8",2018,"Action",6.8,"Gary Ross",179112,"
+                        1h 50min
+                    "
+"151","X-Men: Dark Phoenix",2019,"Action",5.8,"Simon Kinberg",148460,"
+                        1h 53min
+                    "
+"152","The Broken Hearts Gallery",2020,"Comedy",6.6,"Natalie Krinsky",878,"
+                        1h 49min
+                    "
+"153","Fantastic Beasts and Where to Find Them",2016,"Adventure",7.3,"David Yates",400919,"
+                        2h 12min
+                    "
+"154","The Personal History of David Copperfield",2019,"Comedy",6.4,"Armando Iannucci",8753,"
+                        1h 59min
+                    "
+"155","Booksmart",2019,"Comedy",7.2,"Olivia Wilde",86771,"
+                        1h 42min
+                    "
+"156","The Sleepover",2020,"Adventure",5.5,"Trish Sie",6055,"
+                        1h 40min
+                    "
+"157","Sicario",2015,"Action",7.6,"Denis Villeneuve",363161,"
+                        2h 1min
+                    "
+"158","The Rental",2020,"Horror",5.7,"Dave Franco",11413,"
+                        1h 28min
+                    "
+"159","The Call of The Wild",2020,"Adventure",6.8,"Chris Sanders",30960,"
+                        1h 40min
+                    "
+"160","Shazam!",2019,"Action",7.1,"David F. Sandberg",243646,"
+                        2h 12min
+                    "
+"161","Solo: A Star Wars Story",2018,"Action",6.9,"Ron Howard",280643,"
+                        2h 15min
+                    "
+"162","Sonic The Hedgehog",2020,"Action",6.5,"Jeff Fowler",77328,"
+                        1h 39min
+                    "
+"163","Mortal Engines",2018,"Action",6.1,"Christian Rivers",101979,"
+                        2h 8min
+                    "
+"164","Captain America: Civil War",2016,"Action",7.8,"Anthony Russo",648417,"
+                        2h 27min
+                    "
+"165","The Big Short",2015,"Biography",7.8,"Adam McKay",351514,"
+                        2h 10min
+                    "
+"166","Maleficent: Mistress of Evil",2019,"Adventure",6.6,"Joachim Rønning",78850,"
+                        1h 59min
+                    "
+"167","Fantastic Four",2015,"Action",4.3,"Josh Trank",149986,"
+                        1h 40min
+                    "
+"168","Star Wars: The Last Jedi",2017,"Action",7,"Rian Johnson",550833,"
+                        2h 32min
+                    "
+"169","The One and Only Ivan",2020,"Animation",6.7,"Thea Sharrock",5536,"
+                        1h 35min
+                    "
+"170","Glass",2019,"Drama",6.7,"M. Night Shyamalan",199933,"
+                        2h 9min
+                    "
+"171","The Voyage of Doctor Dolittle",2020,"Adventure",5.6,"Stephen Gaghan",40751,"
+                        1h 41min
+                    "
+"172","A Beautiful Day In The Neighbourhood",2019,"Biography",7.3,"Marielle Heller",52196,"
+                        1h 49min
+                    "
+"173","Enola Holmes",2020,"Adventure",6.7,"Harry Bradbeer",72186,"
+                        2h 3min
+                    "
+"174","The Devil All the Time",2020,"Crime",7.1,"Antonio Campos",54686,"
+                        2h 18min
+                    "
+"175","Tenet",2020,"Action",7.8,"Christopher Nolan",128887,"
+                        2h 30min
+                    "
+"176","The Boys in the Band",2020,"Drama",6.8,"Joe Mantello",5174,"
+                        2h 1min
+                    "
+"177","The Trial of the Chicago 7",2020,"Drama",7.5,"Aaron Sorkin",893,"
+                        2h 9min
+                    "
+"178","After We Collided",2020,"Drama",5.3,"Roger Kumble",5030,"
+                        1h 45min
+                    "
+"179","Secret Society of Second-Born Royals",2020,"Adventure",4.6,"Anna Mastro",1674,"
+                        1h 39min
+                    "
+"180","Mulan",2020,"Action",5.4,"Niki Caro",60426,"
+                        1h 55min
+                    "
+"181","I'm Thinking of Ending Things",2020,"Drama",6.7,"Charlie Kaufman",40989,"
+                        2h 14min
+                    "
+"182","The Gentlemen",2019,"Action",7.9,"Guy Ritchie",190955,"
+                        1h 53min
+                    "
+"183","Antebellum",2020,"Drama",5.5,"Gerard Bush",8147,"
+                        1h 45min
+                    "
+"184","365 dni",2020,"Romance",3.3,"Barbara Bialowas",39417,"
+                        1h 54min
+                    "
+"185","Knives Out",2019,"Comedy",7.9,"Rian Johnson",398231,"
+                        2h 10min
+                    "
+"186","The Babysitter: Killer Queen",2020,"Horror",5.8,"McG",18711,"
+                        1h 41min
+                    "
+"187","Bill & Ted Face the Music",2020,"Adventure",6.2,"Dean Parisot",20079,"
+                        1h 31min
+                    "
+"188","Birds of Prey",2020,"Action",6.1,"Cathy Yan",146405,"
+                        1h 49min
+                    "
+"189","The Glorias",2020,"Biography",4.6,"Julie Taymor",951,"
+                        2h 19min
+                    "
+"190","Joker",2019,"Crime",8.5,"Todd Phillips",877498,"
+                        2h 2min
+                    "
+"191","Sound of Metal",2019,"Drama",7,"Darius Marder",400,"
+                        2h 10min
+                    "
+"192","Avengers: Endgame",2019,"Action",8.4,"Anthony Russo",769200,"
+                        3h 1min
+                    "
+"193","Once Upon a Time In Hollywood",2019,"Comedy",7.6,"Quentin Tarantino",518374,"
+                        2h 41min
+                    "
+"194","The New Mutants",2020,"Action",5.5,"Josh Boone",12300,"
+                        1h 34min
+                    "
+"195","Parasite",2019,"Comedy",8.6,"Bong Joon Ho",489194,"
+                        2h 12min
+                    "
+"196","The Outpost",2020,"Action",6.7,"Rod Lurie",12689,"
+                        2h 3min
+                    "
+"198","Greenland",2020,"Action",6.5,"Ric Roman Waugh",3969,"
+                        1h 59min
+                    "
+"199","Minari",2020,"Drama",7.7,"Lee Isaac Chung",245,"
+                        1h 55min
+                    "
+"200","Hamilton",2020,"Biography",8.7,"Thomas Kail",43022,"
+                        2h 40min
+                    "
+"201","Gemini Man",2019,"Action",5.7,"Ang Lee",79168,"
+                        1h 57min
+                    "
+"202","Ford v. Ferrari",2019,"Action",8.1,"James Mangold",263611,"
+                        2h 32min
+                    "
+"203","Jojo Rabbit",2019,"Comedy",7.9,"Taika Waititi",264884,"
+                        1h 48min
+                    "
+"204","Black Panther",2018,"Action",7.3,"Ryan Coogler",609799,"
+                        2h 14min
+                    "
+"205","The Silencing",2020,"Action",6.1,"Robin Pront",6949,"
+                        1h 33min
+                    "
+"206","Just Mercy",2019,"Biography",7.6,"Destin Daniel Cretton",40115,"
+                        2h 17min
+                    "
+"207","The Old Guard",2020,"Action",6.6,"Gina Prince-Bythewood",108168,"
+                        2h 5min
+                    "
+"208","Possessor",2020,"Sci-Fi",6.4,"Brandon Cronenberg",2452,"
+                        1h 43min
+                    "
+"209","After",2019,"Drama",5.3,"Jenny Gage",32836,"
+                        1h 45min
+                    "
+"210","Stephen King's Doctor Sleep",2019,"Drama",7.4,"Mike Flanagan",127844,"
+                        2h 32min
+                    "
+"211","21 Bridges",2019,"Action",6.6,"Brian Kirk",42072,"
+                        1h 39min
+                    "
+"212","The Addams Family",2019,"Animation",5.8,"Greg Tiernan",24890,"
+                        1h 26min
+                    "
+"213","Midsommar: The Director's Cut",2019,"Drama",7.1,"Ari Aster",181949,"
+                        2h 28min
+                    "
+"214","Unhinged",2020,"Action",6.2,"Derrick Borte",7330,"
+                        1h 30min
+                    "
+"215","Blade Runner 2049",2017,"Action",8,"Denis Villeneuve",445955,"
+                        2h 44min
+                    "
+"216","Terminator: Dark Fate",2019,"Action",6.2,"Tim Miller",137395,"
+                        2h 8min
+                    "
+"217","1917",2019,"Drama",8.3,"Sam Mendes",374846,"
+                        1h 59min
+                    "
+"218","On The Basis Of Sex",2018,"Biography",7.1,"Mimi Leder",24276,"
+                        2h
+                    "
+"219","Kajillionaire",2020,"Crime",6.6,"Miranda July",740,"
+                        1h 44min
+                    "
+"220","Thor: Ragnarok",2017,"Action",7.9,"Taika Waititi",569546,"
+                        2h 10min
+                    "
+"221","Motherless Brooklyn",2019,"Crime",6.8,"Edward Norton",36489,"
+                        2h 24min
+                    "
+"222","Bombshell",2019,"Biography",6.8,"Jay Roach",74103,"
+                        1h 49min
+                    "
+"223","Lost Girls and Love Hotels",2020,"Drama",4.4,"William Olsson",1536,"
+                        1h 37min
+                    "
+"224","Project Power",2020,"Action",6,"Henry Joost",57105,"
+                        1h 53min
+                    "
+"225","Bastille Day",2016,"Action",6.3,"James Watkins",36611,"
+                        1h 32min
+                    "
+"226","The Peanut Butter Falcon",2019,"Comedy",7.6,"Tyler Nilson",56475,"
+                        1h 37min
+                    "
+"227","The War with Grandpa",2020,"Comedy",5.5,"Tim Hill",4671,"
+                        1h 34min
+                    "
+"228","#Saraitda",2020,"Drama",6.2,"Il Cho",17056,"
+                        1h 38min
+                    "
+"229","Jumanji: The Next Level",2019,"Action",6.7,"Jake Kasdan",174123,"
+                        2h 3min
+                    "
+"230","Little Women",2019,"Drama",7.8,"Greta Gerwig",126612,"
+                        2h 15min
+                    "
+"231","12 Hour Shift",2020,"Horror",5.2,"Brea Grant",713,"
+                        1h 26min
+                    "
+"232","Trolls World Tour",2020,"Animation",6.1,"Walt Dohrn",13335,"
+                        1h 30min
+                    "
+"233","Star Wars: The Rise Of Skywalker",2019,"Action",6.6,"J.J. Abrams",352575,"
+                        2h 21min
+                    "
+"234","El practicante",2020,"Drama",5.6,"Carles Torras",5637,"
+                        1h 34min
+                    "
+"235","Deadpool",2016,"Action",8,"Tim Miller",886276,"
+                        1h 48min
+                    "
+"236","Jurassic World: Fallen Kingdom",2018,"Action",6.2,"J.A. Bayona",258867,"
+                        2h 8min
+                    "
+"237","Murder on the Orient Express",2017,"Crime",6.5,"Kenneth Branagh",206043,"
+                        1h 54min
+                    "
+"238","Spider-Man: Into the Spider-Verse",2018,"Animation",8.4,"Bob Persichetti",342443,"
+                        1h 57min
+                    "
+"239","Fantastic Beasts: The Crimes of Grindelwald",2018,"Adventure",6.6,"David Yates",212604,"
+                        2h 14min
+                    "
+"240","Follow Me",2020,"Adventure",5.4,"Will Wernick",2551,"
+                        1h 28min
+                    "
+"241","Mad Max: Fury Road",2015,"Action",8.1,"George Miller",861780,"
+                        2h
+                    "
+"242","JL Family Ranch: The Wedding Gift",2020,"Western",6.2,"Sean McNamara",98,"
+                        1h 23min
+                    "
+"243","Avengers: Infinity War",2018,"Action",8.4,"Anthony Russo",804755,"
+                        2h 29min
+                    "
+"244","Peppermint",2018,"Action",6.5,"Pierre Morel",50105,"
+                        1h 41min
+                    "
+"245","Hereditary",2018,"Drama",7.3,"Ari Aster",225260,"
+                        2h 7min
+                    "
+"246","The Lion King",2019,"Animation",6.9,"Jon Favreau",202551,"
+                        1h 58min
+                    "
+"247","Bad Boys For Life",2020,"Action",6.6,"Adil El Arbi",115853,"
+                        2h 4min
+                    "
+"248","Deadpool 2",2018,"Action",7.7,"David Leitch",464565,"
+                        1h 59min
+                    "
+"249","Love, Guaranteed",2020,"Romance",5.5,"Mark Steven Johnson",9369,"
+                        1h 30min
+                    "
+"250","His House",2020,"Horror",6.2,"Remi Weekes",78,"
+                        1h 33min
+                    "
+"251","The Secret: Dare to Dream",2020,"Drama",6.4,"Andy Tennant",2228,"
+                        1h 47min
+                    "
+"252","It: Chapter 2",2019,"Drama",6.5,"Andy Muschietti",195788,"
+                        2h 49min
+                    "
+"253","On the Rocks",2020,"Adventure",6.8,"Sofia Coppola",737,"
+                        1h 36min
+                    "
+"254","Charlie's Angels",2019,"Action",4.8,"Elizabeth Banks",51844,"
+                        1h 58min
+                    "
+"255","Uncut Gems",2019,"Crime",7.4,"Benny Safdie",203936,"
+                        2h 15min
+                    "
+"256","A Simple Favor",2018,"Comedy",6.8,"Paul Feig",121987,"
+                        1h 57min
+                    "
+"257","Greyhound",2020,"Action",7,"Aaron Schneider",54076,"
+                        1h 31min
+                    "
+"258","BlacKkKlansman",2018,"Biography",7.5,"Spike Lee",211255,"
+                        2h 15min
+                    "
+"259","The Meg",2018,"Action",5.6,"Jon Turteltaub",145119,"
+                        1h 53min
+                    "
+"260","Infidel",2019,"Action",6.6,"Cyrus Nowrasteh",782,"
+                        1h 48min
+                    "
+"261","Bloodshot",2020,"Action",5.7,"Dave Wilson",52840,"
+                        1h 49min
+                    "
+"262","The Man from U.N.C.L.E.",2015,"Action",7.3,"Guy Ritchie",265329,"
+                        1h 56min
+                    "
+"263","The Equalizer 2",2018,"Action",6.7,"Antoine Fuqua",127762,"
+                        2h 1min
+                    "
+"264","The Irishman",2019,"Biography",7.9,"Martin Scorsese",308737,"
+                        3h 29min
+                    "
+"265","Nishabdham",2020,"Mystery",3.8,"Hemant Madhukar",1641,"
+                        2h
+                    "
+"266","Suicide Squad",2016,"Action",6,"David Ayer",589909,"
+                        2h 3min
+                    "
+"268","Eurovision Song Contest: The Story of Fire Saga",2020,"Comedy",6.5,"David Dobkin",65817,"
+                        2h 3min
+                    "
+"270","The King of Staten Island",2020,"Comedy",7.1,"Judd Apatow",24921,"
+                        2h 16min
+                    "
+"271","Midway",2019,"Action",6.7,"Roland Emmerich",60109,"
+                        2h 18min
+                    "
+"272","Slaughterhouse Rulez",2018,"Action",5.3,"Crispian Mills",10209,"
+                        1h 44min
+                    "
+"273","Train to Busan 2",2020,"Action",5.5,"Sang-ho Yeon",12471,"
+                        1h 56min
+                    "
+"274","The Tax Collector",2020,"Crime",4.7,"David Ayer",6049,"
+                        1h 35min
+                    "
+"275","The Greatest Showman Sing-A-Long",2017,"Biography",7.6,"Michael Gracey",228713,"
+                        1h 45min
+                    "
+"276","Fantasy Island",2020,"Action",4.9,"Jeff Wadlow",29044,"
+                        1h 49min
+                    "
+"277","Spider-Man: Far From Home",2019,"Action",7.5,"Jon Watts",308911,"
+                        2h 9min
+                    "
+"278","Good Time",2017,"Crime",7.4,"Benny Safdie",83150,"
+                        1h 42min
+                    "
+"279","Palm Springs",2020,"Comedy",7.4,"Max Barbakow",50979,"
+                        1h 30min
+                    "
+"280","Extraction",2020,"Action",6.7,"Sam Hargrave",145527,"
+                        1h 56min
+                    "
+"281","A Call to Spy",2019,"Biography",5.6,"Lydia Dean Pilcher",357,"
+                        2h 3min
+                    "
+"282","Nomadland",2020,"Drama",8.1,"Chloé Zhao",622,"
+                        1h 48min
+                    "
+"283","Call Me by Your Name",2017,"Drama",7.9,"Luca Guadagnino",202090,"
+                        2h 12min
+                    "
+"284","The Secret Garden",2020,"Drama",5.6,"Marc Munden",2818,"
+                        1h 39min
+                    "
+"285","Mission: Impossible - Fallout",2018,"Action",7.7,"Christopher McQuarrie",283399,"
+                        2h 27min
+                    "
+"286","Fifty Shades of Grey",2015,"Drama",4.1,"Sam Taylor-Johnson",294223,"
+                        2h 5min
+                    "
+"287","Ready Player One",2018,"Action",7.5,"Steven Spielberg",356483,"
+                        2h 20min
+                    "
+"289","Alita: Battle Angel",2019,"Action",7.3,"Robert Rodriguez",219927,"
+                        2h 2min
+                    "
+"290","Jurassic World",2015,"Action",7,"Colin Trevorrow",571587,"
+                        2h 4min
+                    "
+"291","The Lodge",2019,"Drama",6,"Severin Fiala",26749,"
+                        1h 48min
+                    "
+"292","Justice League",2017,"Action",6.3,"Zack Snyder",374013,"
+                        2h
+                    "
+"293","Captain Marvel",2019,"Action",6.9,"Anna Boden",426420,"
+                        2h 3min
+                    "
+"294","The Avengers: Age of Ultron",2015,"Action",7.3,"Joss Whedon",726528,"
+                        2h 21min
+                    "
+"296","The VVitch: A New-England Folktale",2015,"Drama",6.9,"Robert Eggers",191221,"
+                        1h 32min
+                    "
+"297","The Martian",2015,"Adventure",8,"Ridley Scott",744799,"
+                        2h 24min
+                    "
+"298","Frozen 2",2019,"Animation",6.9,"Chris Buck",126209,"
+                        1h 43min
+                    "
+"299","Hustlers",2019,"Comedy",6.3,"Lorene Scafaria",78649,"
+                        1h 50min
+                    "
+"300","Aladdin",2019,"Adventure",7,"Guy Ritchie",218376,"
+                        2h 8min
+                    "
